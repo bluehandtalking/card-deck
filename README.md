@@ -11,4 +11,4 @@ Classes:
 *  Card
 
 ![:card](app/assets/images/card_class.png)
-![:deck](app/assets/images/deck_class/png)
+![:deck](app/assets/images/deck_class.png)

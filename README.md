@@ -9,3 +9,6 @@ Classes:
 
 *  Deck
 *  Card
+
+![:card](app/assets/images/card_deck.png)
+![:deck](app/assets/images/deck/png)
